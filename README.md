@@ -5,15 +5,17 @@
 ## Eixo Temático 3 – Gerência e Suporte da Tecnologia da Informação
 
 **1. Segurança da informação**
-    - void
+
 
 **2. Governança e Gestão de TI**
-    - void
+
 
 **3. Sistemas operacionais**
+
     - Livro: [Sistemas Operacionais Modernos](https://amzn.to/3tU9lS3)
 
 **4. Redes de Computadores**
+
     - Livro: [Redes de computadores e a Internet](https://amzn.to/420A5Ns)
 
 ## Eixo Temático 4 - Desenvolvimento de Software
@@ -21,6 +23,7 @@
 **1. Programação e estruturas de dados**
 
 **1.1 Linguagens de programação Python e Java**
+
     - **Java**
         - Ebook Gratuito Alura/Caelum - [https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf](https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf)
     - **Python 3.9.X - Atenção à versão do Python**
