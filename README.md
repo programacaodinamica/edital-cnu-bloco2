@@ -40,8 +40,8 @@
   - Papadimitriou, **Algoritmos** - [https://amzn.to/3Ih31bH](https://amzn.to/3Ih31bH)
 
 ### 2. Programação Web
-    - [HTML, CSS e Javascript, quais as diferenças?](https://www.alura.com.br/artigos/html-css-e-js-definicoes)
-    - Curso Gratuito Discover RocketSeat: [https://www.rocketseat.com.br/discover](https://www.rocketseat.com.br/discover)
+- [HTML, CSS e Javascript, quais as diferenças?](https://www.alura.com.br/artigos/html-css-e-js-definicoes)
+- Curso Gratuito Discover RocketSeat: [https://www.rocketseat.com.br/discover](https://www.rocketseat.com.br/discover)
     
 ### 3. Desenvolvimento para plataformas móveis
 - Android
