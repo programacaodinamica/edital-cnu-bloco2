@@ -11,10 +11,10 @@
 
 
 ### 3. Sistemas operacionais
-    - Livro: [Sistemas Operacionais Modernos](https://amzn.to/3tU9lS3)
+- Livro: [Sistemas Operacionais Modernos](https://amzn.to/3tU9lS3)
 
 ### 4. Redes de Computadores
-    - Livro: [Redes de computadores e a Internet](https://amzn.to/420A5Ns)
+- Livro: [Redes de computadores e a Internet](https://amzn.to/420A5Ns)
 
 ## Eixo Temático 4 - Desenvolvimento de Software
 
