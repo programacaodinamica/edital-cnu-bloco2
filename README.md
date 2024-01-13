@@ -66,7 +66,7 @@
   - **Sistemas de Banco de Dados** (SQL, SGBD, Modelagem ER, Modelo relacional de BD):  [https://amzn.to/3XjPyE5](https://amzn.to/3XjPyE5)
 
 
-## Eixo Temático 5 - Apoio à decisão, Inteligência Artificail e Métodos Quantitativos
+## Eixo Temático 5 - Apoio à decisão, Inteligência Artificial e Métodos Quantitativos
 
 ### 1. BigData
 - O que é BigData? - [https://www.oracle.com/br/big-data/what-is-big-data/](https://www.oracle.com/br/big-data/what-is-big-data/)
